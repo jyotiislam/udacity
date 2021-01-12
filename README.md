@@ -31,4 +31,4 @@ I have used The stack overflow developer survey 2020 data. It is available [here
 
 **Summary of the analysis:**
 
-The summarized analysis from this project have been published in a [medium blog post](https://jyoti-islam.medium.com/how-to-find-your-next-programming-job-let-the-data-decide-86833db71807)
+The summarized analysis from this project have been published in a [medium blog post](https://jyoti-islam.medium.com/how-to-find-your-next-programming-job-let-the-data-decide-86833db71807).
